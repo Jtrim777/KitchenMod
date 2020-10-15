@@ -1,0 +1,39 @@
+{
+  "parent" : "block/block",
+  "textures": {
+    "particle": "block/stone",
+    "all": "block/stone"
+  },
+  "elements" : [
+    {
+      "from" : [4, 0, 4],
+      "to" : [12, 8, 12],
+      "faces" : {
+        "up" : {
+          "uv" : [0, 0, 8, 8],
+          "texture" : "#all"
+        },
+        "down" : {
+          "uv" : [0, 0, 8, 8],
+          "texture" : "#all"
+        },
+        "north" : {
+          "uv" : [0, 0, 8, 8],
+          "texture" : "#all"
+        },
+        "south" : {
+          "uv" : [0, 0, 8, 8],
+          "texture" : "#all"
+        },
+        "east" : {
+          "uv" : [0, 0, 8, 8],
+          "texture" : "#all"
+        },
+        "west" : {
+          "uv" : [0, 0, 8, 8],
+          "texture" : "#all"
+        }
+      }
+    }
+  ]
+}

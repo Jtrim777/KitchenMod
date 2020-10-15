@@ -1,0 +1,13 @@
+{
+  "variants" : {
+    "heat=2" : {
+      "model" : "kitchenmod:block/meteor"
+    },
+    "heat=1" : {
+      "model" : "kitchenmod:block/meteor"
+    },
+    "heat=0" : {
+      "model" : "kitchenmod:block/meteor"
+    }
+  }
+}

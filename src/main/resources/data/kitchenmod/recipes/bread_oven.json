@@ -1,0 +1,5 @@
+{
+  "type": "kitchenmod:oven",
+  "input": "kitchenmod:dough",
+  "output": "minecraft:bread"
+}

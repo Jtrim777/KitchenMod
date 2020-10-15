@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "kitchenmod:block/oven_top",
+    "down": "kitchenmod:block/oven_top",
+    "up": "kitchenmod:block/oven_top",
+    "east": "kitchenmod:block/oven_side",
+    "west": "kitchenmod:block/oven_side",
+    "north": "kitchenmod:block/oven_front_off",
+    "south": "kitchenmod:block/oven_side"
+  }
+}

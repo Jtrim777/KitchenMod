@@ -1,0 +1,36 @@
+{
+  "multipart" : [
+    {
+      "when" : { "age" : "0" , "vine_height" :  "1|2|3"},
+      "apply" : { "model" :  "kitchenmod:block/vanilla_vine0"}
+    },
+    {
+      "when" : { "age" : "1" , "vine_height" :  "1|2|3"},
+      "apply" : { "model" :  "kitchenmod:block/vanilla_vine1"}
+    },
+    {
+      "when" : { "age" : "2" , "vine_height" :  "1|2|3"},
+      "apply" : { "model" :  "kitchenmod:block/vanilla_vine2"}
+    },
+    {
+      "when" : { "age" : "3" , "vine_height" :  "1|2|3"},
+      "apply" : { "model" :  "kitchenmod:block/vanilla_vine3"}
+    },
+    {
+      "when" : { "age" : "4" , "vine_height" :  "1|2|3"},
+      "apply" : { "model" :  "kitchenmod:block/vanilla_vine4"}
+    },
+    {
+      "when" : { "age" : "5" , "vine_height" :  "1|2|3"},
+      "apply" : { "model" :  "kitchenmod:block/vanilla_vine5"}
+    },
+    {
+      "when" : { "age" : "6" , "vine_height" :  "1|2|3"},
+      "apply" : { "model" :  "kitchenmod:block/vanilla_vine6"}
+    },
+    {
+      "when" : { "age" : "7" , "vine_height" :  "1|2|3"},
+      "apply" : { "model" :  "kitchenmod:block/vanilla_vine7"}
+    }
+  ]
+}

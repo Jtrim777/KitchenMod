@@ -1,0 +1,9 @@
+{
+  "type": "kitchenmod:smeltery",
+  "input": "minecraft:iron_nugget",
+  "secondary_input" : "kitchenmod:ash",
+  "molten_output": {
+    "fluid": "kitchenmod:molten_steel",
+    "amount": 30
+  }
+}

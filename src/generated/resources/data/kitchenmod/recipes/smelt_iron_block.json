@@ -1,0 +1,8 @@
+{
+  "type": "kitchenmod:smeltery",
+  "input": "minecraft:iron_block",
+  "molten_output": {
+    "fluid": "kitchenmod:molten_iron",
+    "amount": 1080
+  }
+}

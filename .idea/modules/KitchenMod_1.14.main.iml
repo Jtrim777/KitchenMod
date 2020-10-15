@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="minecraft" name="Minecraft">
+      <configuration>
+        <userChosenTypes>
+          <map>
+            <entry key="BUKKIT" value="false" />
+            <entry key="SPIGOT" value="false" />
+            <entry key="PAPER" value="false" />
+            <entry key="SPONGE" value="false" />
+            <entry key="BUNGEECORD" value="false" />
+            <entry key="WATERFALL" value="false" />
+            <entry key="VELOCITY" value="false" />
+            <entry key="LITELOADER" value="false" />
+            <entry key="MIXIN" value="false" />
+          </map>
+        </userChosenTypes>
+        <autoDetectTypes>
+          <platformType>FORGE</platformType>
+          <platformType>MCP</platformType>
+        </autoDetectTypes>
+      </configuration>
+    </facet>
+  </component>
+  <component name="McpModuleSettings">
+    <option name="mappingFile" value="$MODULE_DIR$/../../build/createMcpToSrg/output.tsrg" />
+    <option name="mcpVersion" value="snapshot_20190719-1.14.3" />
+    <option name="minecraftVersion" value="1.14.4" />
+    <option name="srgType" value="TSRG" />
+  </component>
+</module>

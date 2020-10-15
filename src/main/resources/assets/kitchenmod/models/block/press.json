@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "kitchenmod:block/press_bottom",
+    "down": "kitchenmod:block/press_bottom",
+    "up": "kitchenmod:block/press_top",
+    "east": "kitchenmod:block/press_side",
+    "west": "kitchenmod:block/press_side",
+    "north": "kitchenmod:block/press_front",
+    "south": "kitchenmod:block/press_side"
+  }
+}

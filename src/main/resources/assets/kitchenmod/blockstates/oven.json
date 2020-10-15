@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=north,is_fueled=false": {
+      "model": "kitchenmod:block/oven"
+    },
+    "facing=south,is_fueled=false": {
+      "model": "kitchenmod:block/oven",
+      "y": 180
+    },
+    "facing=west,is_fueled=false": {
+      "model": "kitchenmod:block/oven",
+      "y": 270
+    },
+    "facing=east,is_fueled=false": {
+      "model": "kitchenmod:block/oven",
+      "y": 90
+    },
+    "facing=north,is_fueled=true": {
+      "model": "kitchenmod:block/oven_on"
+    },
+    "facing=south,is_fueled=true": {
+      "model": "kitchenmod:block/oven_on",
+      "y": 180
+    },
+    "facing=west,is_fueled=true": {
+      "model": "kitchenmod:block/oven_on",
+      "y": 270
+    },
+    "facing=east,is_fueled=true": {
+      "model": "kitchenmod:block/oven_on",
+      "y": 90
+    }
+  }
+}

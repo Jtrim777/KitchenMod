@@ -1,0 +1,9 @@
+import json
+
+body = {"parent":"kitchenmod:block/stake_crop", "textures": {"plant":""}}
+
+texture_name = input("Plant name: ")
+count = int(input("Max age: "))
+
+for i in range(count+1):
+	body["textures"]["plant"] = "kitchenmod:block/%s%i" % (te

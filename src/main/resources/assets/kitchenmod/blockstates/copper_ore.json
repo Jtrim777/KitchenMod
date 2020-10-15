@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "kitchenmod:block/copper_ore"
+      }
+    ]
+  }
+}

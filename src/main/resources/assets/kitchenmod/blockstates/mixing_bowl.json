@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "has_content=true": {
+      "model": "kitchenmod:block/mixing_bowl_full"
+    },
+    "has_content=false": {
+      "model": "kitchenmod:block/mixing_bowl"
+    }
+  }
+}

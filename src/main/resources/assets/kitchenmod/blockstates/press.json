@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north,": {
+      "model": "kitchenmod:block/press"
+    },
+    "facing=south": {
+      "model": "kitchenmod:block/press",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "kitchenmod:block/press",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "kitchenmod:block/press",
+      "y": 90
+    }
+  }
+}

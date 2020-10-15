@@ -1,0 +1,27 @@
+{
+  "type": "kitchenmod:mixing",
+  "ingredients": [
+    {
+      "id": "kitchenmod:flour",
+      "count": 8
+    },
+    {
+      "id": "minecraft:water_bucket",
+      "count": 1
+    }
+  ],
+  "tools": [
+    {
+      "id": "kitchenmod:stir_rod"
+    },
+    {
+      "id": "kitchenmod:bread_starter"
+    }
+  ],
+  "output": [
+    {
+      "id": "kitchenmod:dough",
+      "count": 8
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "kitchenmod:smeltery",
+  "input": "kitchenmod:slag",
+  "molten_output": {
+    "fluid": "minecraft:lava",
+    "amount": 120
+  }
+}

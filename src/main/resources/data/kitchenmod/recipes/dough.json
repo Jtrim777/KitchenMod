@@ -1,0 +1,40 @@
+{
+  "type": "kitchenmod:mixing",
+  "ingredients": [
+    {
+      "id": "kitchenmod:flour",
+      "count": 3
+    },
+    {
+      "id": "kitchenmod:salt",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sugar",
+      "count": 1
+    },
+    {
+      "id": "minecraft:water_bucket",
+      "count": 1
+    }
+  ],
+  "tools": [
+    {
+      "id": "kitchenmod:stir_rod"
+    }
+  ],
+  "output": [
+    {
+      "id": "kitchenmod:dough",
+      "count": 2
+    },
+    {
+      "id": "kitchenmod:bread_starter",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bucket",
+      "count": 1
+    }
+  ]
+}

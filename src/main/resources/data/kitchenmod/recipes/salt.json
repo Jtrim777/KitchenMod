@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kitchenmod:salt_block"
+    }
+  ],
+  "result": {
+    "item": "kitchenmod:salt",
+    "count": 9
+  }
+}

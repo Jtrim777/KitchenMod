@@ -1,0 +1,12 @@
+{
+  "type": "kitchenmod:smeltery",
+  "input": "kitchenmod:tin_ore",
+  "molten_output": {
+    "fluid": "kitchenmod:molten_tin",
+    "amount": 150
+  },
+  "byproduct": {
+    "item": "kitchenmod:slag",
+    "count": 1
+  }
+}

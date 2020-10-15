@@ -1,0 +1,8 @@
+{
+  "type": "kitchenmod:smeltery",
+  "input": "minecraft:gold_nugget",
+  "molten_output": {
+    "fluid": "kitchenmod:molten_gold",
+    "amount": 30
+  }
+}

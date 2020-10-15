@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer1": "kitchenmod:item/bucket_overlay",
+    "layer0": "item/bucket"
+  }
+}

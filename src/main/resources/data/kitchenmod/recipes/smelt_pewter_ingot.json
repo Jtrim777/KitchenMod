@@ -1,0 +1,12 @@
+{
+  "type": "kitchenmod:smeltery",
+  "input": "kitchenmod:pewter_ingot",
+  "molten_output": {
+    "fluid": "kitchenmod:molten_lead",
+    "amount": 100
+  },
+  "byproduct" : {
+    "item" : "kitchenmod:silver_nugget",
+    "count" : 1
+  }
+}

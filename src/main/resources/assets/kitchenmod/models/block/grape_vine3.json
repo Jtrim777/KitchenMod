@@ -1,0 +1,6 @@
+{
+  "parent": "kitchenmod:block/stake_crop",
+  "textures": {
+    "plant": "kitchenmod:block/grape_vine3"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "kitchenmod:block/ground_crop",
+  "textures": {
+    "base": "kitchenmod:block/strawberry_bush3",
+    "sides": "kitchenmod:block/strawberry_bush_deco3"
+  }
+}

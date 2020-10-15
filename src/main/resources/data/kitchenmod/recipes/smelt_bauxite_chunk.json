@@ -1,0 +1,12 @@
+{
+  "type": "kitchenmod:smeltery",
+  "input": "kitchenmod:bauxite_chunk",
+  "molten_output": {
+    "fluid": "kitchenmod:molten_aluminum",
+    "amount": 80
+  },
+  "byproduct": {
+    "item": "kitchenmod:slag",
+    "count": 1
+  }
+}

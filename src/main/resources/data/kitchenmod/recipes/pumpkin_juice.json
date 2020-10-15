@@ -1,0 +1,10 @@
+{
+  "type": "kitchenmod:press",
+  "input": "minecraft:pumpkin",
+  "output": {
+    "fluid" : "kitchenmod:pumpkin_juice",
+    "amount": 250
+  },
+  "byproduct": "minecraft:pumpkin_seeds",
+  "byproduct_chance": 0.75
+}

@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "sss",
+    "sss",
+    "sss"
+  ],
+  "key": {
+    "s": {
+      "item": "kitchenmod:salt"
+    }
+  },
+  "result": {
+    "item": "kitchenmod:salt_block",
+    "count": 1
+  }
+}

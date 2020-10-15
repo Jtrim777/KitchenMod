@@ -1,0 +1,178 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "#base"
+  },
+  "elements": [
+    {
+      "name": "crop_base",
+      "from": [
+        0,
+        -1,
+        0
+      ],
+      "to": [
+        16,
+        -0.75,
+        16
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#base"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#base"
+        }
+      },
+      "shade": false
+    },
+    {
+      "name": "crop_deco_north",
+      "from": [
+        1,
+        -0.75,
+        2
+      ],
+      "to": [
+        15,
+        16,
+        3
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            1,
+            0,
+            14,
+            15.75
+          ],
+          "texture": "#sides"
+        },
+        "south": {
+          "uv": [
+            1,
+            0,
+            14,
+            15.75
+          ],
+          "texture": "#sides"
+        }
+      },
+      "shade": false
+    },
+    {
+      "name": "crop_deco_west",
+      "from": [
+        1,
+        -0.75,
+        3
+      ],
+      "to": [
+        2,
+        16,
+        14
+      ],
+      "faces": {
+        "east": {
+          "uv": [
+            2,
+            0,
+            11,
+            15.75
+          ],
+          "texture": "#sides"
+        },
+        "west": {
+          "uv": [
+            2,
+            0,
+            11,
+            15.75
+          ],
+          "texture": "#sides"
+        }
+      },
+      "shade": false
+    },
+    {
+      "name": "crop_deco_east",
+      "from": [
+        14,
+        -0.75,
+        3
+      ],
+      "to": [
+        15,
+        16,
+        14
+      ],
+      "faces": {
+        "east": {
+          "uv": [
+            2,
+            0,
+            11,
+            15.75
+          ],
+          "texture": "#sides"
+        },
+        "west": {
+          "uv": [
+            2,
+            0,
+            11,
+            15.75
+          ],
+          "texture": "#sides"
+        }
+      },
+      "shade": false
+    },
+    {
+      "name": "crop_deco_south",
+      "from": [
+        1,
+        -0.75,
+        14
+      ],
+      "to": [
+        15,
+        16,
+        15
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            1,
+            0,
+            14,
+            15.75
+          ],
+          "texture": "#sides"
+        },
+        "south": {
+          "uv": [
+            1,
+            0,
+            14,
+            15.75
+          ],
+          "texture": "#sides"
+        }
+      },
+      "shade": false
+    }
+  ]
+}

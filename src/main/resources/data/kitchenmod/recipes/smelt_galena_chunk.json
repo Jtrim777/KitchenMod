@@ -1,0 +1,12 @@
+{
+  "type": "kitchenmod:smeltery",
+  "input": "kitchenmod:galena_chunk",
+  "molten_output": {
+    "fluid": "kitchenmod:molten_pewter",
+    "amount": 80
+  },
+  "byproduct": {
+    "item": "kitchenmod:slag",
+    "count": 1
+  }
+}

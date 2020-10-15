@@ -1,0 +1,11 @@
+{
+  "recipes": {
+    "mill": "MillRecipeFactory",
+    "press": "PressRecipeFactory",
+    "churn": "ChurnRecipeFactory",
+    "pot": "CookingCauldronRecipeFactory",
+    "bowl": "MixingBowlRecipeFactory",
+    "oven": "OvenRecipeFactory",
+    "smeltery": "SmelteryRecipeFactory"
+  }
+}

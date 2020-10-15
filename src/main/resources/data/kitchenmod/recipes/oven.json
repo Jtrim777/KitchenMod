@@ -1,0 +1,26 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "xxx",
+    "fif",
+    "ccc"
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:cobblestone"
+    },
+    "x": {
+      "item": "minecraft:cobblestone_slab"
+    },
+    "i": {
+      "item": "minecraft:iron_bars"
+    },
+    "f": {
+      "item": "minecraft:furnace"
+    }
+  },
+  "result": {
+    "item": "kitchenmod:oven",
+    "count": 1
+  }
+}

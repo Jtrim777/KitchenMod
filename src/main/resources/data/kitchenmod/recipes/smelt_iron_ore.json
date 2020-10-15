@@ -1,0 +1,12 @@
+{
+  "type": "kitchenmod:smeltery",
+  "input": "minecraft:iron_ore",
+  "molten_output": {
+    "fluid": "kitchenmod:molten_iron",
+    "amount": 150
+  },
+  "byproduct": {
+    "item": "kitchenmod:slag",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "kitchenmod:smeltery",
+  "input": "kitchenmod:copper_ore",
+  "molten_output": {
+    "fluid": "kitchenmod:molten_copper",
+    "amount": 150
+  },
+  "byproduct": {
+    "item": "kitchenmod:slag",
+    "count": 1
+  }
+}

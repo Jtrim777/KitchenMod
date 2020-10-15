@@ -1,0 +1,10 @@
+{
+  "type": "kitchenmod:press",
+  "input": "minecraft:apple",
+  "output": {
+    "fluid" : "kitchenmod:apple_juice",
+    "amount": 250
+  },
+  "byproduct": "kitchenmod:compost",
+  "byproduct_chance": 0.75
+}

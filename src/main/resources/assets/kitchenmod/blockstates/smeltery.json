@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,lit=false": { "model": "kitchenmod:block/smeltery" },
+    "facing=south,lit=false": { "model": "kitchenmod:block/smeltery", "y": 180 },
+    "facing=west,lit=false":  { "model": "kitchenmod:block/smeltery", "y": 270 },
+    "facing=east,lit=false":  { "model": "kitchenmod:block/smeltery", "y": 90 },
+    "facing=north,lit=true": { "model": "kitchenmod:block/smeltery_on" },
+    "facing=south,lit=true": { "model": "kitchenmod:block/smeltery_on", "y": 180 },
+    "facing=west,lit=true":  { "model": "kitchenmod:block/smeltery_on", "y": 270 },
+    "facing=east,lit=true":  { "model": "kitchenmod:block/smeltery_on", "y": 90 }
+  }
+}

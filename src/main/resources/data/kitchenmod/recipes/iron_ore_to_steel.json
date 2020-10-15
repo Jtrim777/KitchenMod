@@ -1,0 +1,9 @@
+{
+  "type": "kitchenmod:smeltery",
+  "input": "minecraft:iron_ore",
+  "secondary_input" : "minecraft:coal",
+  "molten_output": {
+    "fluid": "kitchenmod:molten_steel",
+    "amount": 150
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " l ",
+    "fif",
+    "   "
+  ],
+  "key": {
+    "l": {
+      "item": "minecraft:lever"
+    },
+    "f": {
+      "tag": "minecraft:wooden_fences"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "kitchenmod:axle",
+    "count": 1
+  }
+}
